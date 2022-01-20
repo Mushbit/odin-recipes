@@ -1,0 +1,2 @@
+<p>This will be my first website ever and am really excited to start this. I will be building it from the ground up using the html language i learned over the last few days. Till now I have been proudly using the terminal to get everything done and am planning to keep this up for this project as well. I learned that this website will later-on get altered with CSS and perhaps after that even with some javascript. following this will be a self reflection</p>
+
